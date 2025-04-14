@@ -1,5 +1,9 @@
 # ASL Detection and Text Input System
+## 📝 Description
 
+A real-time American Sign Language (ASL) detection system that allows users to input text using hand gestures. This project uses computer vision and machine learning to recognize ASL signs and convert them into text.
+
+### Demo
 ![Hand Detection Demo](demo/hello_test.gif)
 
 
@@ -7,9 +11,6 @@
 ![Space Demo](demo/space_test.gif)
 ![Delete Demo](demo/del_test.gif)
 
-## 📝 Description
-
-A real-time American Sign Language (ASL) detection system that allows users to input text using hand gestures. This project uses computer vision and machine learning to recognize ASL signs and convert them into text.
 
 ## ✨ Features
 
@@ -34,7 +35,7 @@ A real-time American Sign Language (ASL) detection system that allows users to i
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/adn26/asl_detection.git
+git clone https://github.com/adn26/asl-detection-system.git
 cd asl_detection
 ```
 
