@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force specific files to use LF
+*.txt text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Binary files that should not be modified
+*.h5 binary
+*.model binary 
