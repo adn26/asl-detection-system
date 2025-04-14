@@ -128,12 +128,6 @@ Feel free to contribute to this project by:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to the cvzone library for hand tracking functionality
-- The ASL recognition model used in this project
-- Contributors and testers who helped improve the system
-
 ## 📧 Contact
 
 For questions, suggestions, or issues, please open an issue in the repository. 
